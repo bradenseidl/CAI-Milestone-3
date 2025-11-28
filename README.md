@@ -14,7 +14,7 @@ The `milestone3.py` script runs a complete **Ablation Study** in three phases:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/bradenseidl/CAI-Milestone-3.git](https://github.com/bradenseidl/CAI-Milestone-3.git)
+git clone https://github.com/bradenseidl/CAI-Milestone-3.git
 cd CAI-Milestone-3
 ```
 
